@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "nodemon": "^2.0.20"
+  },
+  "name": "json-api",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "author": "Khang Nguyen",
+  "license": "MIT",
+  "description": ""
+}
