@@ -596,6 +596,18 @@
       "email": "nguyentruongkhang.1509@gmail.com",
       "createdAt": 1678899918643,
       "updatedAt": 1678899918643
+    },
+    {
+      "id": 5948,
+      "productId": "23",
+      "avatar": "https://demo.roadthemes.com/james/wp-content/uploads/2016/01/admin_avatar_1453715255-60x60.png",
+      "rating": 5,
+      "date": 1678899918601,
+      "content": "Good",
+      "name": "Khang",
+      "email": "nguyentruongkhang.1509@gmail.com",
+      "createdAt": 1678899918643,
+      "updatedAt": 1678899918643
     }
   ],
   "profile": {
